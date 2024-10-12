@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <h1 align="center">Hi 👋, I'm Akki-58</h1> 
 <h3 align="start"></h3>
@@ -48,8 +47,6 @@
 [![An image of @akki74's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akki74)](https://holopin.io/@akki74)
 
 Updated on: 07/10/2024
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <!---
 Akki-58/Akki-58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
