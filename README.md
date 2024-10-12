@@ -45,8 +45,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Akki-58&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 [![An image of @akki74's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akki74)](https://holopin.io/@akki74)
-
-Updated on: 07/10/2024
 <!---
 Akki-58/Akki-58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
